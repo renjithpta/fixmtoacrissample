@@ -1,0 +1,15 @@
+{
+  "name": "fixm-to-acris-sample",
+  "version": "1.0.0",
+  "description": "A Demo project that illustrates the use of fixmtoacrisconverter lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fixmtoacrisconverter": "^1.2.1",
+    "nodemon": "^2.0.12"
+  }
+}
